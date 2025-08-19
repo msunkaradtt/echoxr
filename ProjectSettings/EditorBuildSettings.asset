@@ -5,11 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/echoxr.unity
+    guid: 433e4e717bcd9f24ebc172b3ec6df4d8
+  - enabled: 0
+    path: Assets/Scenes/IDK.unity
+    guid: aa19792e4b6b9b94e9dc794ce7a2ab76
+  - enabled: 0
+    path: Assets/Scenes/AI Scene.unity
+    guid: 30548df1fcaf1bc499366b9af56c5bff
+  - enabled: 1
+    path: Assets/PassthroughCameraApiSamples/CameraViewer/CameraViewer.unity
+    guid: ad5bb12b10679b840999aa322aa7a491
+  - enabled: 0
+    path: Assets/PassthroughCameraApiSamples/StartScene/StartScene.unity
+    guid: 69e1b31c45bac42f88f75017ee404de1
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 57d438f446f740147accf15ad8c79395, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a2f14fd9aac885943b43cfcee43c780b, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ab952c650ef559e47b038bbc44e73afe, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4b3a2563d7d673b4abc542e0fe127116, type: 2}
   m_UseUCBPForAssetBundles: 0
