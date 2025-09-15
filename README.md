@@ -2,6 +2,8 @@
 
 EchoXR is an augmented reality application built with Unity, designed to deliver an interactive and immersive experience. The project leverages the Meta Quest's passthrough capabilities to blend the real and virtual worlds. It incorporates advanced features like voice-controlled interactions, AI-powered conversations, and real-time object recognition to create a truly engaging user experience.
 
+![EchoXR Arch](https://github.com/msunkaradtt/echoxr/blob/main/images/Echoxr_arch.png)
+
 ---
 
 ## Features
